@@ -16,7 +16,7 @@ You can interact directly with the web-hosted report:
 👉 **[Explore the Interactive Dashboard on Tableau Public](https://public.tableau.com/shared/CBTKTF3SS)**
 
 ## 📂 Repository Contents
-andes_retail_dashboard.twb → Tableau workbook containing the interactive dashboard.
+https://public.tableau.com/shared/CBTKTF3SS?:display_count=n&:origin=viz_share_link → Tableau workbook containing the interactive dashboard.
 
 data/ → Dataset used for the analysis.
 
