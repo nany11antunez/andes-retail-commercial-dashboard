@@ -13,12 +13,11 @@ The dashboard analyses sales performance across 2024–2025, exploring revenue, 
 
 You can interact directly with the web-hosted report:
 
-👉 **[Explore the Interactive Dashboard on Tableau Public](https://public.tableau.com/shared/CBTKTF3SS)**
+**[Explore the Interactive Dashboard on Tableau Public](https://public.tableau.com/shared/CBTKTF3SS)** → Tableau dashboard containing the interactive visualisations.
 
 ## 📂 Repository Contents
-https://public.tableau.com/shared/CBTKTF3SS?:display_count=n&:origin=viz_share_link → Tableau workbook containing the interactive dashboard.
 
-data/ → Dataset used for the analysis.
+Andes_Retail_Group_2024_2025-2.xlsx / → Dataset used for the analysis.
 
 images/ → Dashboard preview images.
 
