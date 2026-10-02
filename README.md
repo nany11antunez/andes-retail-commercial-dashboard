@@ -15,6 +15,8 @@ You can interact directly with the web-hosted report:
 
 **[Explore the Interactive Dashboard on Tableau Public](https://public.tableau.com/shared/CBTKTF3SS)** → Tableau dashboard containing the interactive visualisations.
 
+**💻 Recommended: View the interactive dashboard on a computer for the best experience and full visibility of the dashboard layout and interactive elements.**
+
 ## 📂 Repository Contents
 
 `Andes_Retail_Group_2024_2025-2.xlsx` → Dataset used for the analysis.
