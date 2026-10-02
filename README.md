@@ -1,10 +1,19 @@
 # andes-retail-commercial-dashboard
 
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-orange?style=flat-square&logo=tableau)](https://public.tableau.com/shared/CBTKTF3SS)
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)]()
+
 **Andes Retail Group Analysis**
 
 This project presents an interactive commercial performance dashboard developed for Andes Retail Group, a retail company operating in Peru, Chile, and Colombia.
 
 The dashboard analyses sales performance across 2024–2025, exploring revenue, customer segments, product categories, countries, and temporal patterns to provide a clear view of commercial performance.
+
+## 🚀 Dashboard Preview
+
+You can interact directly with the web-hosted report:
+
+👉 **[Explore the Interactive Dashboard on Tableau Public](https://public.tableau.com/shared/CBTKTF3SS)**
 
 ## 📂 Repository Contents
 andes_retail_dashboard.twb → Tableau workbook containing the interactive dashboard.
@@ -41,7 +50,6 @@ The business operates across four product categories:
 - Home
 
 The dashboard was developed in Tableau and includes interactive views for analysing commercial performance from both an overview and detailed perspective.
-🔗 View Interactive Dashboard on Tableau Public
 
 ## 🔎 Analysis Process
 
