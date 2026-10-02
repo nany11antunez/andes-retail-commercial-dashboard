@@ -23,7 +23,9 @@ You can interact directly with the web-hosted report:
 
 `images/dashboard_overview.png` → Dashboard overview providing a quick view of the main KPIs and commercial performance.
 
-`images/dashboard_detail.png` → Detailed dashboard view for deeper analysis of countries, categories, customer segments, and seasonal patterns.
+`images/dashboard_detail.png` → Detailed dashboard view for deeper analysis of countries, categories and customer segments.
+
+`andes-retail-commercial-analysis.ipynb` → Notebook documenting the analysis workflow, data exploration, key findings, and SQCA (Situation, Complication, Question, Answer) framework used to structure the business narrative.
 
 
 ## 🧠 Analysis Objective
