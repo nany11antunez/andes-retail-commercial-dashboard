@@ -80,6 +80,7 @@ The dashboard allows these patterns to be explored interactively across countrie
 
 ## 🛠️ Tools
 
+- Excel
 - Tableau
 - Interactive dashboards
 - KPI design
