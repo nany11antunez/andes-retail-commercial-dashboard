@@ -17,9 +17,12 @@ You can interact directly with the web-hosted report:
 
 ## 📂 Repository Contents
 
-Andes_Retail_Group_2024_2025-2.xlsx / → Dataset used for the analysis.
+`Andes_Retail_Group_2024_2025-2.xlsx` → Dataset used for the analysis.
 
-images/ → Dashboard preview images.
+`images/dashboard_overview.png` → Dashboard overview providing a quick view of the main KPIs and commercial performance.
+
+`images/dashboard_detail.png` → Detailed dashboard view for deeper analysis of countries, categories, customer segments, and seasonal patterns.
+
 
 ## 🧠 Analysis Objective
 
