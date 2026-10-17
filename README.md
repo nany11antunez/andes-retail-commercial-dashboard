@@ -92,6 +92,8 @@ The dashboard could support commercial teams in identifying areas that warrant f
 
 - Customer segmentation in Colombia: The lower share of Premium customers in Colombia could motivate further analysis of purchasing behaviour across customer segments and markets. The company could then evaluate targeted strategies to increase Premium customer participation while monitoring revenue and gross margin.
 
+These findings highlight potential commercial opportunities. Further analysis would be needed to determine which strategies could be most effective.
+
 ## 🛠️ Tools
 
 - Excel
