@@ -84,6 +84,14 @@ The dashboard highlights two areas for further commercial investigation:
 - Customer segmentation in Colombia: The lower proportion of Premium customers provides an opportunity to investigate strategies for increasing Premium customer participation while monitoring the effect on gross margin.
 The dashboard allows these patterns to be explored interactively across countries, categories, customer segments, and time periods.
 
+## Potential Business Decisions
+
+The dashboard could support commercial teams in identifying areas that warrant further investigation and evaluating potential strategies.
+
+- Seasonal sales performance: The June–August revenue decline could prompt the commercial team to investigate demand patterns by country and product category, and evaluate whether targeted campaigns or promotions could help maintain sales during lower-revenue months.
+
+- Customer segmentation in Colombia: The lower share of Premium customers in Colombia could motivate further analysis of purchasing behaviour across customer segments and markets. The company could then evaluate targeted strategies to increase Premium customer participation while monitoring revenue and gross margin.
+
 ## 🛠️ Tools
 
 - Excel
